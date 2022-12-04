@@ -1,5 +1,5 @@
 {
-  "frames": [
+  "!": [
     {
       "name": "!0000",
       "x": 0,
@@ -61,7 +61,9 @@
       "frameY": 0,
       "frameWidth": 108,
       "frameHeight": 230
-    },
+    }
+  ],
+  "?": [
     {
       "name": "?0000",
       "x": 708,
@@ -123,7 +125,9 @@
       "frameY": 0,
       "frameWidth": 119,
       "frameHeight": 237
-    },
+    }
+  ],
+  "a": [
     {
       "name": "A0000",
       "x": 1482,
@@ -181,7 +185,9 @@
       "frameY": 0,
       "frameWidth": 171,
       "frameHeight": 193
-    },
+    }
+  ],
+  "b": [
     {
       "name": "B0000",
       "x": 0,
@@ -247,7 +253,9 @@
       "frameY": 0,
       "frameWidth": 141,
       "frameHeight": 202
-    },
+    }
+  ],
+  "c": [
     {
       "name": "C0000",
       "x": 449,
@@ -297,7 +305,9 @@
       "y": 247,
       "width": 183,
       "height": 208
-    },
+    }
+  ],
+  "d": [
     {
       "name": "D0000",
       "x": 1027,
@@ -363,7 +373,9 @@
       "frameY": 0,
       "frameWidth": 173,
       "frameHeight": 195
-    },
+    }
+  ],
+  "e": [
     {
       "name": "E0000",
       "x": 1574,
@@ -413,7 +425,9 @@
       "y": 465,
       "width": 161,
       "height": 183
-    },
+    }
+  ],
+  "f": [
     {
       "name": "F0000",
       "x": 171,
@@ -463,7 +477,9 @@
       "frameY": -1,
       "frameWidth": 158,
       "frameHeight": 198
-    },
+    }
+  ],
+  "g": [
     {
       "name": "G0000",
       "x": 674,
@@ -529,7 +545,9 @@
       "frameY": -1,
       "frameWidth": 150,
       "frameHeight": 194
-    },
+    }
+  ],
+  "h": [
     {
       "name": "H0000",
       "x": 1152,
@@ -595,7 +613,9 @@
       "frameY": 0,
       "frameWidth": 193,
       "frameHeight": 202
-    },
+    }
+  ],
+  "i": [
     {
       "name": "I0000",
       "x": 1757,
@@ -653,7 +673,9 @@
       "y": 677,
       "width": 108,
       "height": 199
-    },
+    }
+  ],
+  "j": [
     {
       "name": "J0000",
       "x": 118,
@@ -711,7 +733,9 @@
       "y": 677,
       "width": 128,
       "height": 197
-    },
+    }
+  ],
+  "k": [
     {
       "name": "K0000",
       "x": 530,
@@ -769,7 +793,9 @@
       "frameY": 0,
       "frameWidth": 161,
       "frameHeight": 197
-    },
+    }
+  ],
+  "l": [
     {
       "name": "L0000",
       "x": 1041,
@@ -819,7 +845,9 @@
       "frameY": 0,
       "frameWidth": 114,
       "frameHeight": 186
-    },
+    }
+  ],
+  "m": [
     {
       "name": "M0000",
       "x": 1412,
@@ -877,7 +905,9 @@
       "frameY": -1,
       "frameWidth": 189,
       "frameHeight": 158
-    },
+    }
+  ],
+  "n": [
     {
       "name": "N0000",
       "x": 0,
@@ -943,7 +973,9 @@
       "frameY": 0,
       "frameWidth": 200,
       "frameHeight": 188
-    },
+    }
+  ],
+  "o": [
     {
       "name": "O0000",
       "x": 628,
@@ -1001,7 +1033,9 @@
       "y": 886,
       "width": 204,
       "height": 192
-    },
+    }
+  ],
+  "p": [
     {
       "name": "P0000",
       "x": 1263,
@@ -1067,7 +1101,9 @@
       "frameY": 0,
       "frameWidth": 116,
       "frameHeight": 196
-    },
+    }
+  ],
+  "q": [
     {
       "name": "Q0000",
       "x": 1638,
@@ -1125,7 +1161,9 @@
       "frameY": 0,
       "frameWidth": 171,
       "frameHeight": 158
-    },
+    }
+  ],
+  "r": [
     {
       "name": "R0000",
       "x": 180,
@@ -1191,7 +1229,9 @@
       "frameY": 0,
       "frameWidth": 125,
       "frameHeight": 192
-    },
+    }
+  ],
+  "s": [
     {
       "name": "S0000",
       "x": 583,
@@ -1249,7 +1289,9 @@
       "frameY": 0,
       "frameWidth": 183,
       "frameHeight": 208
-    },
+    }
+  ],
+  "t": [
     {
       "name": "T0000",
       "x": 1161,
@@ -1299,7 +1341,9 @@
       "y": 1092,
       "width": 113,
       "height": 167
-    },
+    }
+  ],
+  "u": [
     {
       "name": "U0000",
       "x": 1529,
@@ -1357,7 +1401,9 @@
       "frameY": 0,
       "frameWidth": 200,
       "frameHeight": 157
-    },
+    }
+  ],
+  "v": [
     {
       "name": "V0000",
       "x": 209,
@@ -1423,7 +1469,9 @@
       "frameY": 0,
       "frameWidth": 164,
       "frameHeight": 186
-    },
+    }
+  ],
+  "w": [
     {
       "name": "W0000",
       "x": 728,
@@ -1481,7 +1529,9 @@
       "frameY": -1,
       "frameWidth": 172,
       "frameHeight": 167
-    },
+    }
+  ],
+  "x": [
     {
       "name": "X0000",
       "x": 1271,
@@ -1547,7 +1597,9 @@
       "frameY": 0,
       "frameWidth": 139,
       "frameHeight": 138
-    },
+    }
+  ],
+  "y": [
     {
       "name": "Y0000",
       "x": 1715,
@@ -1597,7 +1649,9 @@
       "frameY": 0,
       "frameWidth": 122,
       "frameHeight": 212
-    },
+    }
+  ],
+  "z": [
     {
       "name": "Z0000",
       "x": 131,
