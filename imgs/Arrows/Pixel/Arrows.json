@@ -130,14 +130,14 @@
     },
     "Arrow-1-hold-piece": {
       "name": "Arrow-1-hold-piece",
-      "x": 157,
+      "x": 64,
       "y": 785,
       "width": 64,
       "height": 44
     },
     "Arrow-1-hold-end": {
       "name": "Arrow-1-hold-end",
-      "x": 157,
+      "x": 64,
       "y": 829,
       "width": 64,
       "height": 67
@@ -202,14 +202,14 @@
     },
     "Arrow-2-hold-piece": {
       "name": "Arrow-1-hold-piece",
-      "x": 314,
+      "x": 128,
       "y": 785,
       "width": 64,
       "height": 44
     },
     "Arrow-2-hold-end": {
       "name": "Arrow-1-hold-end",
-      "x": 314,
+      "x": 128,
       "y": 829,
       "width": 64,
       "height": 67
@@ -225,63 +225,63 @@
     },
     "Arrow-3-note": {
       "name": "Arrow-1-note",
-      "x": 314,
+      "x": 471,
       "y": 157,
       "width": 157,
       "height": 157
     },
     "Arrow-3-press-0-no": {
       "name": "Arrow-1-press-0-no",
-      "x": 314,
+      "x": 471,
       "y": 314,
       "width": 157,
       "height": 157
     },
     "Arrow-3-press-1-no": {
       "name": "Arrow-1-press-1-no",
-      "x": 314,
+      "x": 471,
       "y": 314,
       "width": 157,
       "height": 157
     },
     "Arrow-3-press-2-no": {
       "name": "Arrow-1-press-2-no",
-      "x": 314,
+      "x": 471,
       "y": 314,
       "width": 157,
       "height": 157
     },
     "Arrow-3-press-0": {
       "name": "Arrow-1-press-0",
-      "x": 314,
+      "x": 471,
       "y": 471,
       "width": 157,
       "height": 157
     },
     "Arrow-3-press-1": {
       "name": "Arrow-1-press-1",
-      "x": 314,
+      "x": 471,
       "y": 628,
       "width": 157,
       "height": 157
     },
     "Arrow-3-press-2": {
       "name": "Arrow-1-press-2",
-      "x": 314,
+      "x": 471,
       "y": 471,
       "width": 157,
       "height": 157
     },
     "Arrow-3-hold-piece": {
       "name": "Arrow-1-hold-piece",
-      "x": 314,
+      "x": 192,
       "y": 785,
       "width": 64,
       "height": 44
     },
     "Arrow-3-hold-end": {
       "name": "Arrow-1-hold-end",
-      "x": 314,
+      "x": 192,
       "y": 829,
       "width": 64,
       "height": 67
