@@ -3,9 +3,9 @@
     "Arrow-4": {
       "name": "spacebar0001",
       "x": 470,
-      "y": 5,
+      "y": 55,
       "width": 361,
-      "height": 109,
+      "height": 60,
       "frameX": -75,
       "frameY": 0,
       "frameWidth": 497,
@@ -14,9 +14,9 @@
     "Arrow-4-note": {
       "name": "spacebar0001",
       "x": 470,
-      "y": 5,
+      "y": 55,
       "width": 361,
-      "height": 109,
+      "height": 60,
       "frameX": -75,
       "frameY": 0,
       "frameWidth": 497,
