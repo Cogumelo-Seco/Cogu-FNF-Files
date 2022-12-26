@@ -2,25 +2,17 @@
   "Arrow-4": {
     "Arrow-4": {
       "name": "spacebar0001",
-      "x": 470,
-      "y": 55,
-      "width": 361,
-      "height": 60,
-      "frameX": -75,
-      "frameY": 0,
-      "frameWidth": 497,
-      "frameHeight": 115
+      "x": 108,
+      "y": 5,
+      "width": 357,
+      "height": 83
     },
     "Arrow-4-note": {
       "name": "spacebar0001",
-      "x": 470,
-      "y": 55,
-      "width": 361,
-      "height": 60,
-      "frameX": -75,
-      "frameY": 0,
-      "frameWidth": 497,
-      "frameHeight": 115
+      "x": 108,
+      "y": 5,
+      "width": 357,
+      "height": 83
     },
     "Arrow-4-press-0": {
       "name": "spacebar press0000",
