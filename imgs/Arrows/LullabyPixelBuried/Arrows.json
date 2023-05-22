@@ -40,35 +40,35 @@
       "x": 0,
       "y": 471,
       "width": 157,
-      "height": 157
+      "height": 155
     },
     "Arrow-0-press-1": {
       "name": "Arrow-1-press-1",
       "x": 0,
       "y": 628,
       "width": 157,
-      "height": 157
+      "height": 155
     },
     "Arrow-0-press-2": {
       "name": "Arrow-1-press-2",
       "x": 0,
       "y": 471,
       "width": 157,
-      "height": 157
+      "height": 155
     },
     "Arrow-0-hold-piece": {
       "name": "Arrow-1-hold-piece",
       "x": 0,
       "y": 792,
       "width": 58,
-      "height": 60
+      "height": 70
     },
     "Arrow-0-hold-end": {
       "name": "Arrow-1-hold-end",
       "x": 0,
       "y": 832,
       "width": 58,
-      "height": 60
+      "height": 70
     }
   },
   "Arrow-1": {
@@ -112,35 +112,35 @@
       "x": 157,
       "y": 471,
       "width": 157,
-      "height": 157
+      "height": 155
     },
     "Arrow-1-press-1": {
       "name": "Arrow-1-press-1",
       "x": 157,
       "y": 628,
       "width": 157,
-      "height": 157
+      "height": 155
     },
     "Arrow-1-press-2": {
       "name": "Arrow-1-press-2",
       "x": 157,
       "y": 471,
       "width": 157,
-      "height": 157
+      "height": 155
     },
     "Arrow-1-hold-piece": {
       "name": "Arrow-1-hold-piece",
-      "x": 58,
+      "x": 70,
       "y": 792,
       "width": 58,
-      "height": 60
+      "height": 70
     },
     "Arrow-1-hold-end": {
       "name": "Arrow-1-hold-end",
-      "x": 58,
+      "x": 70,
       "y": 832,
       "width": 58,
-      "height": 60
+      "height": 70
     }
   },
   "Arrow-2": {
@@ -184,35 +184,35 @@
       "x": 314,
       "y": 471,
       "width": 157,
-      "height": 157
+      "height": 155
     },
     "Arrow-2-press-1": {
       "name": "Arrow-1-press-1",
       "x": 314,
       "y": 628,
       "width": 157,
-      "height": 157
+      "height": 155
     },
     "Arrow-2-press-2": {
       "name": "Arrow-1-press-2",
       "x": 314,
       "y": 471,
       "width": 157,
-      "height": 157
+      "height": 155
     },
     "Arrow-2-hold-piece": {
       "name": "Arrow-1-hold-piece",
-      "x": 116,
+      "x": 140,
       "y": 792,
       "width": 58,
-      "height": 60
+      "height": 70
     },
     "Arrow-2-hold-end": {
       "name": "Arrow-1-hold-end",
-      "x": 116,
+      "x": 140,
       "y": 832,
       "width": 58,
-      "height": 60
+      "height": 70
     }
   },
   "Arrow-3": {
@@ -256,35 +256,35 @@
       "x": 471,
       "y": 471,
       "width": 157,
-      "height": 157
+      "height": 155
     },
     "Arrow-3-press-1": {
       "name": "Arrow-1-press-1",
       "x": 471,
       "y": 628,
       "width": 157,
-      "height": 157
+      "height": 155
     },
     "Arrow-3-press-2": {
       "name": "Arrow-1-press-2",
       "x": 471,
       "y": 471,
       "width": 157,
-      "height": 157
+      "height": 155
     },
     "Arrow-3-hold-piece": {
       "name": "Arrow-1-hold-piece",
-      "x": 174,
+      "x": 210,
       "y": 792,
       "width": 58,
-      "height": 60
+      "height": 70
     },
     "Arrow-3-hold-end": {
       "name": "Arrow-1-hold-end",
-      "x": 174,
+      "x": 210,
       "y": 832,
       "width": 58,
-      "height": 60
+      "height": 70
     }
   }
 }
