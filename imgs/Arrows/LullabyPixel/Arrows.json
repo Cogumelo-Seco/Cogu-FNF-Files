@@ -60,14 +60,14 @@
       "name": "Arrow-1-hold-piece",
       "x": 0,
       "y": 792,
-      "width": 64,
+      "width": 58,
       "height": 60
     },
     "Arrow-0-hold-end": {
       "name": "Arrow-1-hold-end",
       "x": 0,
       "y": 852,
-      "width": 64,
+      "width": 58,
       "height": 40
     }
   },
@@ -130,16 +130,16 @@
     },
     "Arrow-1-hold-piece": {
       "name": "Arrow-1-hold-piece",
-      "x": 64,
+      "x": 58,
       "y": 792,
-      "width": 64,
+      "width": 58,
       "height": 60
     },
     "Arrow-1-hold-end": {
       "name": "Arrow-1-hold-end",
-      "x": 64,
+      "x": 58,
       "y": 852,
-      "width": 64,
+      "width": 58,
       "height": 40
     }
   },
@@ -202,16 +202,16 @@
     },
     "Arrow-2-hold-piece": {
       "name": "Arrow-1-hold-piece",
-      "x": 128,
+      "x": 116,
       "y": 792,
-      "width": 64,
+      "width": 58,
       "height": 60
     },
     "Arrow-2-hold-end": {
       "name": "Arrow-1-hold-end",
-      "x": 128,
+      "x": 116,
       "y": 852,
-      "width": 64,
+      "width": 58,
       "height": 40
     }
   },
@@ -274,16 +274,16 @@
     },
     "Arrow-3-hold-piece": {
       "name": "Arrow-1-hold-piece",
-      "x": 192,
+      "x": 174,
       "y": 792,
-      "width": 64,
+      "width": 58,
       "height": 60
     },
     "Arrow-3-hold-end": {
       "name": "Arrow-1-hold-end",
-      "x": 192,
+      "x": 174,
       "y": 852,
-      "width": 64,
+      "width": 58,
       "height": 40
     }
   }
