@@ -5,7 +5,7 @@
       "x": 0,
       "y": 0,
       "width": 157,
-      "height": 157
+      "height": 155
     },
     "Arrow-0-note": {
       "name": "Arrow-1-note",
@@ -66,9 +66,9 @@
     "Arrow-0-hold-end": {
       "name": "Arrow-1-hold-end",
       "x": 0,
-      "y": 852,
+      "y": 832,
       "width": 58,
-      "height": 40
+      "height": 60
     }
   },
   "Arrow-1": {
@@ -77,7 +77,7 @@
       "x": 157,
       "y": 0,
       "width": 157,
-      "height": 157
+      "height": 155
     },
     "Arrow-1-note": {
       "name": "Arrow-1-note",
@@ -138,9 +138,9 @@
     "Arrow-1-hold-end": {
       "name": "Arrow-1-hold-end",
       "x": 58,
-      "y": 852,
+      "y": 832,
       "width": 58,
-      "height": 40
+      "height": 60
     }
   },
   "Arrow-2": {
@@ -149,7 +149,7 @@
       "x": 314,
       "y": 0,
       "width": 157,
-      "height": 157
+      "height": 155
     },
     "Arrow-2-note": {
       "name": "Arrow-1-note",
@@ -210,9 +210,9 @@
     "Arrow-2-hold-end": {
       "name": "Arrow-1-hold-end",
       "x": 116,
-      "y": 852,
+      "y": 832,
       "width": 58,
-      "height": 40
+      "height": 60
     }
   },
   "Arrow-3": {
@@ -221,7 +221,7 @@
       "x": 471,
       "y": 0,
       "width": 157,
-      "height": 157
+      "height": 155
     },
     "Arrow-3-note": {
       "name": "Arrow-1-note",
@@ -282,9 +282,9 @@
     "Arrow-3-hold-end": {
       "name": "Arrow-1-hold-end",
       "x": 174,
-      "y": 852,
+      "y": 832,
       "width": 58,
-      "height": 40
+      "height": 60
     }
   }
 }
