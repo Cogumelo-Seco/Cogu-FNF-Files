@@ -40,21 +40,21 @@
       "x": 0,
       "y": 471,
       "width": 157,
-      "height": 155
+      "height": 150
     },
     "Arrow-0-press-1": {
       "name": "Arrow-1-press-1",
       "x": 0,
       "y": 628,
       "width": 157,
-      "height": 155
+      "height": 150
     },
     "Arrow-0-press-2": {
       "name": "Arrow-1-press-2",
       "x": 0,
       "y": 471,
       "width": 157,
-      "height": 155
+      "height": 150
     },
     "Arrow-0-hold-piece": {
       "name": "Arrow-1-hold-piece",
@@ -112,21 +112,21 @@
       "x": 157,
       "y": 471,
       "width": 157,
-      "height": 155
+      "height": 150
     },
     "Arrow-1-press-1": {
       "name": "Arrow-1-press-1",
       "x": 157,
       "y": 628,
       "width": 157,
-      "height": 155
+      "height": 150
     },
     "Arrow-1-press-2": {
       "name": "Arrow-1-press-2",
       "x": 157,
       "y": 471,
       "width": 157,
-      "height": 155
+      "height": 150
     },
     "Arrow-1-hold-piece": {
       "name": "Arrow-1-hold-piece",
@@ -184,21 +184,21 @@
       "x": 314,
       "y": 471,
       "width": 157,
-      "height": 155
+      "height": 150
     },
     "Arrow-2-press-1": {
       "name": "Arrow-1-press-1",
       "x": 314,
       "y": 628,
       "width": 157,
-      "height": 155
+      "height": 150
     },
     "Arrow-2-press-2": {
       "name": "Arrow-1-press-2",
       "x": 314,
       "y": 471,
       "width": 157,
-      "height": 155
+      "height": 150
     },
     "Arrow-2-hold-piece": {
       "name": "Arrow-1-hold-piece",
@@ -256,21 +256,21 @@
       "x": 471,
       "y": 471,
       "width": 157,
-      "height": 155
+      "height": 150
     },
     "Arrow-3-press-1": {
       "name": "Arrow-1-press-1",
       "x": 471,
       "y": 628,
       "width": 157,
-      "height": 155
+      "height": 150
     },
     "Arrow-3-press-2": {
       "name": "Arrow-1-press-2",
       "x": 471,
       "y": 471,
       "width": 157,
-      "height": 155
+      "height": 150
     },
     "Arrow-3-hold-piece": {
       "name": "Arrow-1-hold-piece",
